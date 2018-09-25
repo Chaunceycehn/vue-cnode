@@ -1,6 +1,8 @@
 # vue-cnode社区
 
 > 基于Vue与cnode社区提供的API搭建的高仿CNODE社区
+> 预览链接：https://chaunceycehn.github.io/vue-cnode/dist/index.html
+
 
 ## 涉及技术栈
 - axios插件的使用
